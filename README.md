@@ -9,11 +9,3 @@ This bot will:
 
 ---
 
-## 💻 How to Run
-1. Make sure you have Python installed (3.14+ recommended).  
-2. Open your terminal / VS Code terminal.  
-3. Navigate to the folder where `savage_mood_bot.py` is saved.  
-4. Run the command:
-after writing this in readme what to do?
-
-
